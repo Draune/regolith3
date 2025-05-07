@@ -8,3 +8,6 @@ wm.gaps.smart: off
 wm.hide.edge.borders: none
 wm.gaps.focus_follows_mouse: on
 wm.gaps.inner.size: 15
+
+wm.client.focused.color.indicator: #d65d0e
+wm.client.focused.color.child_border: #af3a03
