@@ -1,4 +1,10 @@
 regolith.wallpaper.file: --help
 regolith.lockscreen.wallpaper.file: --help
 regolith.wallpaper.file: ~/.config/regolith3/wallpaper.jpg
+
 wm.bar.position: bottom
+
+wm.gaps.smart: off
+wm.hide.edge.borders: none
+wm.gaps.focus_follows_mouse: on
+wm.gaps.inner.size: 15
