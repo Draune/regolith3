@@ -1,0 +1,6 @@
+bar{
+   position bottom
+   height 80
+}
+
+exec_always --no-startup-id ~/.conky/launch_conky.sh
