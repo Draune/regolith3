@@ -1,5 +1,4 @@
-regolith.wallpaper.file: --help
-regolith.lockscreen.wallpaper.file: --help
+regolith.lockscreen.wallpaper.file: ~/.config/regolith3/wallpaper.jpg
 regolith.wallpaper.file: ~/.config/regolith3/wallpaper.jpg
 
 wm.bar.position: bottom
