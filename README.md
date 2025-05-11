@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![desktop_image](https://github.com/Draune/regolith3-config/blob/master/desktop.png)
+![desktop_image](https://github.com/Draune/regolith3-config/blob/master/screenshots/desktop.png)
 
 ## Features
 
