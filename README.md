@@ -35,7 +35,7 @@ pip install autotiling
 sudo apt install regolith-look-gruvbox
 
 # install the regolith config
-git clone https://github.com/Draune/regolith3 ~/.config/regolith3
+git clone https://github.com/Draune/regolith3-config.git ~/.config/regolith3
 
 # remove i3xrocks
 sudo apt remove i3xrocks regolith-i3-i3xrocks regolith-i3xrocks-config
