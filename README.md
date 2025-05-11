@@ -20,11 +20,13 @@ Features:
 
 ## Install
 
+You will need to instal 'Cousine Nerd Font' and 'Symbols Nerd Font' inside your /usr/share/fonts
+
 Installation steps (first, you need to install Regolith):
 
 ``` shell
 # install the conky config
-sudo apt install conky
+sudo apt install conky wmctrl
 git clone https://github.com/Draune/conky-config.git ~/.conky
 
 # install dependencies for autotiling
