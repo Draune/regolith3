@@ -2,9 +2,7 @@
 
 ## Screenshots
 
-![empty_desktop_image](https://github.com/Draune/regolith3/blob/master/empty_desktop.png)
-
-![desktop_image_with_autotiled_windows](https://github.com/Draune/regolith3/blob/master/desktop_with_autotiled_windows.png)
+![desktop_image](https://github.com/Draune/regolith3-config/blob/master/desktop.png)
 
 ## Features
 
@@ -30,6 +28,7 @@ sudo apt install conky
 git clone https://github.com/Draune/conky-config.git ~/.conky
 
 # install dependencies for autotiling
+pip install i3ipc
 pip install autotiling
 
 # install look
